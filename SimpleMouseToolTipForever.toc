@@ -1,3 +1,5 @@
 ## Interface: 90100
-## Title: SimpleMouseTooltip
+## Title: SimpleMouseTooltipForever
+## IconTexture: Interface\Icons\INV_Misc_Wrench_01
+
 SimpleMouseToolTipForever.lua
