@@ -1,8 +1,8 @@
-## Interface: 90100
+## Interface: 16001
 ## Title: SimpleMouseTooltipForever
 ## IconTexture: Interface\Icons\INV_Misc_Wrench_01
 ## Notes: Moves the WoW tooltip to the mouse cursor with configurable offset
 ## Author: Zolo
-## Version: 1.0.0
+## Version: 1.1.0
 
 SimpleMouseToolTipForever.lua
